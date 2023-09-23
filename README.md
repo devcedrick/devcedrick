@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devcedrick
-- 👀 I’m interested in Back-end developing.
+- 👀 I’m interested in both Front-End and Back-End Development.
 - 🌱 I’m currently learning C programming.
 - 📫 How to reach me: kencedrickjimeno@gmail.com
 
