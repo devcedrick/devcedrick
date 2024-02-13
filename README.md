@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devcedrick
-- 👀 I’m interested in both Front-End and Back-End Development.
-- 🌱 I’m currently learning C programming.
+- 👀 I’m interested in Software Engineering and Web Development.
+- 🌱 I’m currently learning C/C++, Java, and HTML/CSS/JavaScript.
 - 📫 How to reach me: kencedrickjimeno@gmail.com
 
 <!---
