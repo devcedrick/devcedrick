@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ken Cedrick</h1>
 <h3 align="center">A passionate and goal-driven student programmer from Visayas State University.</h3>
 
-- 🌱 I’m currently learning **Application Development**
+- 🌱 I’m currently learning **C# and SQL**
 
 - 📫 How to reach me **kencedrickjimeno@gmail.com**
 
