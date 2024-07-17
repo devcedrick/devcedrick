@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ken Cedrick</h1>
 <h3 align="center">A passionate and goal-driven student programmer from Visayas State University.</h3>
 
-- 🌱 I’m currently learning **C#, PostgreSQL, and Python (which is more focused on data science**
+- 🌱 I’m currently learning **C#, PostgreSQL, and Python (more focused on data science)**
 
 - 📫 How to reach me **kencedrickjimeno@gmail.com**
 
