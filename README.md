@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ken Cedrick</h1>
-<h3 align="center">A software developer and data engineer in the making.</h3>
+<h1 align="left">Hi 👋, I'm Ken Cedrick</h1>
+<h3 align= "left">A software developer and data engineer in the making.</h3>
 
 - 🌱 I’m currently mastering my skills focusing on **software development and data science.**
 
