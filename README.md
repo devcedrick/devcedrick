@@ -1,5 +1,5 @@
 # Hi 👋, I am Ken Cedrick
-### A Software/Data Engineer in the making.
+### A Full Stack Software Engineer in the making.
 - 🌱 I'm currently mastering my skills focusing on **software development** and **data science**.
 - 📫 How to reach me: <kencedrickjimeno@gmail.com>
 
